@@ -7635,6 +7635,10 @@ h1, h2, h3, h4, h5,
       border-color: #fff;
       color: #ee76ad; }
 
+section{
+  scroll-behavior: smooth;
+}
+
 .ftco-section-featured {
   margin-top: -250px;
   padding-bottom: 7em; }
