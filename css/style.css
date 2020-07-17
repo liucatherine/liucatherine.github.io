@@ -7908,7 +7908,8 @@ section{
     box-shadow: -20px 20px 0 0 #e8e3e6; }
   @media (max-width: 767.98px) {
     .block-3 .image {
-      height: 300px; } }
+      height: 300px; 
+      min-width:100%;} }
 
 .block-5 {
   overflow: hidden;
