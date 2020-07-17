@@ -7886,7 +7886,8 @@ section{
   background-position: center center;
   background-repeat: no-repeat;
   position: relative; 
-  height:425px;}
+  height:425px;
+  min-width:500px;}
   .block-3 .image:after {
     position: absolute;
     top: 0;
